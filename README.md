@@ -6,4 +6,5 @@ Bonus: I’ve added some tweaks in the game settings for multi-display support, 
 
 It took me quite a few cups of coffee and a lot of trial and error, as I was completely new to programming in C# and Unity. I wasn’t so sure where to start when I first had this idea.
 So, if you like this mod, consider buying me a coffee, it’ll help me add more cool features!
-Support at: https://ko-fi.com/pigeoneye
+
+Screenshots and Support at: https://ko-fi.com/pigeoneye
